@@ -1,0 +1,10 @@
+Buenas,
+
+Se realiza proceso de despliegue de api en github, el repositorio se encuentra en la siguiente ruta.
+
+https://github.com/AdrianYPs/api.node.js.git
+
+Sin embargo, se debe realizar la configuración de la base de datos con MySql para que esta pueda funcionar de manera adecuada.
+
+
+Saludos.
